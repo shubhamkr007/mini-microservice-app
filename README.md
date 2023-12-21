@@ -39,8 +39,8 @@ Performs moderation tasks such as content filtering to ensure user-generated con
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/mini-microservices-app.git
-   cd mini-microservices-app
+   git clone https://github.com/shubhamkr007/mini-microservice-app.git
+   cd mini-microservice-app
    ```
 2. **Install dependencies for each service:**
    ```bash
